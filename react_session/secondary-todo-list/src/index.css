@@ -1,0 +1,11 @@
+body {
+  background-color: #f0f2f5;
+}
+
+.callout-warning {
+  border-left: 0.25rem solid rgba(255, 193, 7, 0.8);
+}
+
+.callout-success {
+  border-left: 0.25rem solid rgba(25, 135, 84, 0.8);
+}
